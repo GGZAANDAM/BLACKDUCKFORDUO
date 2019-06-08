@@ -1,28 +1,4 @@
-# Blackduck hub
-
-https://wiki.prd.duo.nl/display/PROV/BlackDucin712zaa   (Ek+Hub+recipes)
-https://wiki.prd.duo.nl/pages/viewpage.action?title=BlackDuck+Hub+recipes&spaceKey=PROV
-https://wiki.prd.duo.nl/display/PROV/Recipe+-+BlackDuck+Hub+installeren
-https://info.blackducksoftware.com/rs/872-OLS-526/images/Hub_Trial_GettingStarted.pdf
-https://blackducksoftware.atlassian.net/wiki/display/INTDOCS/Black+Duck+Hub%3A+Overview (Page unavailable Your Atlassian Cloud site is currently unavailable.)
-https://www.synopsys.com/software-integrity/resources/analyst-reports/2019-open-source-security-risk-analysis/thankyou.html
-https://www.synopsys.com/software-integrity/security-testing/software-composition-analysis.html
-https://info.blackducksoftware.com/rs/872-OLS-526/images/BlackDuck_HUB_UL.pdf
-https://www.synopsys.com/content/dam/synopsys/sig-assets/datasheets/blackduck-sca-ds-ul.pdf
-
-https://synopsys.atlassian.net/wiki/spaces/INTDOCS/overview
-
-https://synopsys.skilljar.com/#job-role_administrator,solution_black-duck
-
-https://github.com/blackducksoftware/hub/wiki/Black-Duck-Installation-Guide (Black Duck Installation)
-
-https://github.com/blackducksoftware/hub/
-
-https://synopsys.skilljar.com/series/hub-course-series-for-application-administrators
-
-https://community.synopsys.com/s/article/Black-Duck-Hub-Installing-Black-Duck-using-Docker-Compose-Version-2019-4-2 #valt af(Latest blackduck docker (compose) installation guide)
-
-https://github.com/blackducksoftware/hub/tree/master/kubernetes (Blackduck Openshiftkubernetes)
+# Blackduck
 
 ---
 
@@ -32,13 +8,16 @@ https://github.com/blackducksoftware/hub/tree/master/kubernetes (Blackduck Opens
   
 Source: https://github.com/blackducksoftware/hub/tree/master/docker-compose
 
-- Deploying Black Duck in Kubernetes/OpenShift is the recommended approach for installing Blackduck.
+- **Deploying Black Duck in Kubernetes/OpenShift is the recommended approach for installing Blackduck.**
 
 Source: https://github.com/blackducksoftware/hub/tree/master/kubernetes\
 
-- Blackduck can be used with Synopsys Operator, to simply Blackduck deployments on Kubernets adn Openshift.\
+- **Blackduck can be used with Synopsys Operator, to simply Blackduck deployments on Kubernets adn Openshift.**
 
 Source: https://github.com/blackducksoftware/hub/wiki/Black-Duck-Installation-Guide
+
+- **Using Blackduck without Synopsys Operator by Jonathan Beakley.**
+https://synopsys.atlassian.net/wiki/spaces/BDLM/pages/34570390/Installing+Black+Duck+in+Clusters+not+Running+the+Operator+2018.12.0
 
 
 ---
