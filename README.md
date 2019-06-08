@@ -366,7 +366,7 @@ Consult the Blackduck docker install guide for details on configuring proxy.
 #### Source: 
 https://synopsys.skilljar.com/black-duck-hub-installation-docker/82827/scorm/39ejf7qlnpg3q#
 
-### Installing Blackduck using Docker compose
+### ~~Installing Blackduck using Docker compose~~ **Deprecated**
 
 https://community.synopsys.com/s/article/Black-Duck-Hub-Installing-Black-Duck-using-Docker-Compose-Version-2019-2-0
 
